@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋 take a look at [my portfolio](peake.me)
 
+- Currently working on a private project as well as a portfolio site
+
+- I'm fluent in Java, and Python and currently learning C++ and webcoding
 <!--
-**GarrettPeake/GarrettPeake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
