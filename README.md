@@ -1,4 +1,4 @@
-### Hi there 👋 take a look at [my portfolio](peake.me)
+### Hi there 👋
 
 - Currently working on a private project as well as my portfolio site
 
