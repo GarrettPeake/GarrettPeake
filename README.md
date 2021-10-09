@@ -1,5 +1,7 @@
 ### Hi there 👋
 
-- Currently working on a private project as well as my portfolio site
+- Currently working on a private project part time
 
-- I'm fluent in Python, Java and C++ and am currently learning webcoding
+- I'm fluent in Python, Java, and Javascript and am well versed in C++, CSS, and HTML
+
+- I can use AWS Lambda, DynamoDB, and API Gateway as well as React and Flask
