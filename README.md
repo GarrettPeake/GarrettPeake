@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- Currently building [Pioche](https://github.com/GarrettPeake/pioche), a backend framework for the [Cloudflare Workers](https://workers.cloudflare.com/) platform
+- Currently building [OrgChart](https://github.com/GarrettPeake/OrgChart), a coding agent with multiple levels of task delegation.
 
-- I'm fluent in Javascript, Python, and Java, and am well versed in C++, CSS, and HTML
+- I'm fluent in Kotlin, Javascript/TS, Python, and Java, and am well versed in CSS and HTML
 
-- I can use Cloudflare Workers, AWS Lambda, DynamoDB, and API Gateway as well as React and Flask
+- I'm very familiar with the core offerings of AWS
